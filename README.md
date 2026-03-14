@@ -7,7 +7,7 @@ Sou uma entusiasta da tecnologia focada em desenvolvimento **Front-end** e **Mob
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando ADS na UNIP (ProUni).
+- 🎓 Cursando ADS na UNIP.
 - 📱 Desenvolvi o app **DoApego** (Flutter/Dart) como TCC.
 - 💻 Focada em criar interfaces modernas, acessíveis e funcionais.
 - ❤️ Acredito na tecnologia como ferramenta de transformação social.
